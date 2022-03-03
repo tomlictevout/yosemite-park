@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&family=League+Gothic&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	 font-size: 18px;
+	 background: #C9C9C9;
+	 margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'League Gothic', sans-serif;
+	font-size: 25px;
+	font font-weight: bold;
+ }
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	background-color: black;
+}
+
